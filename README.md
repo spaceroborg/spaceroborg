@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spaceroborg. PhD researcher at TU Delft.
 - 👀 I’m interested in Aerial robotics, Bio-inspired robotics, Space robotics, and everything else.
 - 🌱 I’m currently learning Paparazzi and C.
-- 🛠️ I'm building a drone and navigation algorithm.
+- 🛠️ I'm building a drone navigation algorithm.
 - 📫 How to reach me: linkedin.com/in/riya-gujarathi/
 - 😄 Pronouns: She/Her.
 <!---
